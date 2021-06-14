@@ -1,6 +1,5 @@
 package Cvowel;
 
-import java.lang.*;
 /*
    Author: Rinkesh Narayan Ingole
    Date  : 15/10/2020
@@ -8,8 +7,7 @@ import java.lang.*;
 
 */
 
-
-
+import java.lang.*;
 import java.util.*;
 class Vowel
 {
