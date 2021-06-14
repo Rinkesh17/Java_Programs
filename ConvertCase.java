@@ -3,7 +3,7 @@
 
    Author: Rinkesh Narayan Ingole
    Date  : 17/10/2020
-   About: This java program check the Charector is vowel or not entered by user
+   About: This java program convert the case of charector. i.e Lower Case -> Upper Case , Upper Case -> Lower Case
 
 
    Problem Statement:Accept one character from user and convert case of that character.
